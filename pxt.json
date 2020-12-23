@@ -1,5 +1,6 @@
 {
     "name": "Birdys Adventure (Beta",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
